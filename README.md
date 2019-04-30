@@ -8,5 +8,5 @@ In earlier version of Office Communication Server 2007 / Lync 2010, we were able
 Instructions:
 
 1. Clone or download the repository zip and extract it to wherever (ex. C:\LaunchGALProps)
-2. Compile the attached Program.cs -- if you do not have Visual Studio or an alternative installed, but you do in fact have .NET v4.0 (or higher) installed, you can utilize the command line compiler like so: `C:\Windows\Microsoft.Net\v4.0.30319\csc.exe /out:C:\LaunchGALProps\LaunchGALProps.exe`
+2. Compile the attached Program.cs -- if you do not have Visual Studio or an alternative installed, but you do in fact have .NET v4.0 (or higher) installed, you can utilize the command line compiler like so: `C:\Windows\Microsoft.Net\v4.0.30319\csc.exe /out:C:\LaunchGALProps\LaunchGALProps.exe Program.cs`
 3. Once you have successfully compiled the application, drop it in a known point and update the LaunchGALProps.reg's **ApplicationInstallPath** and **Path** values.
