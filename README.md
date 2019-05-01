@@ -1,5 +1,5 @@
 # launch-gal-props
-Utilized to launch Global Address List properties for a specific Active Directory ID directly from Lync 2013 or Skype for Business 2016.
+Utilized to launch Global Address List (Outlook) properties for a specific Active Directory ID directly from Lync 2013 or Skype for Business 2016.
 
 For more information please see the [blog post here](https://nigglingaspirations.blogspot.com/2017/11/skype-for-business-lync-2013-outlook.html).
 
